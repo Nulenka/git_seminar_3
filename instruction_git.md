@@ -43,3 +43,9 @@ To add some comment to the new commit use:
 
     git log --oneline --all
 
+## Переход в коммит
+
+Для перехода в ту или иную версию необходимо использовать комманду:
+
+    git checkout (first 4 symbols of commit name)
+
