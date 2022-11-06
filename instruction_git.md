@@ -49,3 +49,9 @@ To add some comment to the new commit use:
 
     git checkout (first 4 symbols of commit name)
 
+## Обзор изменений
+
+Для сравнения источников  данных git применяется комманда:
+
+    git diff (two commits)
+
