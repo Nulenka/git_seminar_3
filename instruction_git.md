@@ -21,3 +21,9 @@ To add a new commit use:
 
     git add
 
+## Commenting a new commit
+
+To add some comment to the new commit use:
+
+    git commit - m "text"
+
