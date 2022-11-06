@@ -14,3 +14,10 @@
 Чтобы проверть состояние репозитория, используют команду:
 
     git status
+
+## Adding of new commit
+
+To add a new commit use:
+
+    git add
+
