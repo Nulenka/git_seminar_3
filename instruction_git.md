@@ -103,7 +103,8 @@ Git выводит небольшое описательное сообщени�
     
     $ git branch -d <branchName>
 
-## Remote repositories
+## Remoted repositories
 
 text
+some new text Удаленные репозитории нужны для ...
 
