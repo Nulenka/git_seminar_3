@@ -62,3 +62,9 @@ To add some comment to the new commit use:
 Ветвления нужны для 
 
 ## Новый заголовок
+
+some text
+
+## New header for branching_1
+
+some more text
