@@ -2,6 +2,8 @@
 
 ## What's Git?
 
+![Git logo](images/git_logo.jpg)
+
 ~~Git description~~
 
 ## Local repository creation
