@@ -48,7 +48,7 @@ To add some comment to the new commit use:
 Для перехода в ту или иную версию необходимо использовать комманду:
 
     git checkout (first 4 symbols of commit name)
-
+(Hash - идентификатор коммита из лога)
 ## Обзор изменений
 
 Для сравнения источников  данных git применяется комманда:
