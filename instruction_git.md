@@ -68,3 +68,7 @@ some text
 ## New header for branching_1
 
 some more text
+
+## Создание новой ветки
+
+бла бла
