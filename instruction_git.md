@@ -57,3 +57,6 @@ To add some comment to the new commit use:
 
     git diff (two commits)
 
+## Ветвления
+
+Ветвления нужны для 
