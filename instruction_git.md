@@ -103,3 +103,7 @@ Git выводит небольшое описательное сообщени�
     
     $ git branch -d <branchName>
 
+## Remote repositories
+
+text
+
