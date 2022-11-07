@@ -69,7 +69,11 @@ some text
 
 some more text
 
-## additional info
+## Создание новой ветки
 
-bla-bla
+бла бла
 
+
+## More text
+
+text
