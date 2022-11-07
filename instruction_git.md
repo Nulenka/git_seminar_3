@@ -68,3 +68,8 @@ some text
 ## New header for branching_1
 
 some more text
+
+## additional info
+
+bla-bla
+
